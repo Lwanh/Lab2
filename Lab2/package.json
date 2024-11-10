@@ -1,0 +1,22 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Wanh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lwanh/Lab2.git"
+  },
+  "author": "Wanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lwanh/Lab2/issues"
+  },
+  "homepage": "https://github.com/Lwanh/Lab2#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
